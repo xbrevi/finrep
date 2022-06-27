@@ -6,7 +6,7 @@
   <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
 <body>
-  <h1 class="text-5xl font-bold underline">
+  <h1 class="text-2xl text-green-700 underline">
     Hello world!
   </h1>
 </body>
